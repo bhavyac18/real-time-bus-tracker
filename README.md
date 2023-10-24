@@ -20,6 +20,7 @@
 To get started with the Pac-Man Project, follow these steps:
 <ol>
       <li>Clone or download this repository to your local machine.</li>
+      <li>Create a Project in <a href="https://developers.google.com/maps/documentation/javascript/cloud-setup" target="_blank">Google Cloud Project</a></li>
       <li> Open the `index.html` file in your web browser.</li>
 </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -33,10 +34,10 @@ To get started with the Pac-Man Project, follow these steps:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Roadmap
-- [ ] Add more mazes for diverse gameplay experiences.
-- [ ] Implement arrow key controls for fluid Pac-Man movement within the maze.
-- [ ] Introduce Dots, Ghosts, and Fruits as interactive elements to enhance the Pac-Man experience.
-- [ ] Enhance Pac-Man's navigation with the addition of arrow key controls and the inclusion of Dots, Ghosts, and Fruits for an authentic gaming adventure.
+- [ ] Add whether the bus is crowded or not
+- [ ] Add if there are seats available
+- [ ] Add if there are any delays 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### License information
