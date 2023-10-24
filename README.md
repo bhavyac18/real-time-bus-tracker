@@ -15,6 +15,7 @@
    <li>User Friendly.</li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### How to Run
 To get started with the Pac-Man Project, follow these steps:
 <ol>
@@ -22,6 +23,7 @@ To get started with the Pac-Man Project, follow these steps:
       <li> Open the `index.html` file in your web browser.</li>
 </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Technologies Used
 <ul>
       <li><b>HTML,CSS,JavaScript</b>-The core technologies for building front-end Interface</li>
