@@ -14,7 +14,21 @@
    <li>Responsive Design.</li>
    <li>User Friendly.</li>
 </ul>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### How to Run
+To get started with the Pac-Man Project, follow these steps:
+<ol>
+      <li>Clone or download this repository to your local machine.</li>
+      <li> Open the `index.html` file in your web browser.</li>
+</ol>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Technologies Used
+<ul>
+      <li><b>HTML,CSS,JavaScript</b>-The core technologies for building front-end Interface</li>
+      <li><b>Google Maps API</b>-Mapping API. To display Interactive Map and bus location</li>
+      <li><b>APIs</b>for Real time data</li>
+</ul>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Happy tracking!
 
