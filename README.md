@@ -21,6 +21,7 @@ To get started with the Pac-Man Project, follow these steps:
 <ol>
       <li>Clone or download this repository to your local machine.</li>
       <li>Create a Project in <a href="https://developers.google.com/maps/documentation/javascript/cloud-setup" target="_blank">Google Cloud Project</a></li>
+      <li>Create an API key and use that key to plot your location data onto a Google map</li>
       <li> Open the `index.html` file in your web browser.</li>
 </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
