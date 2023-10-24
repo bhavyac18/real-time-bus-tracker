@@ -7,6 +7,14 @@
 ## Description
    The Real-Time Bus Tracker is a webpage designed to help users to track the location and movement of buses in real time.Whether you are a commuter or just curious about the current location of a bus, this tool provides a user-friendly and efficient way to stay updated.
 
+### Features
+<ul>
+   <li>Real-time tracking</li>
+   <li>Interactive Map</li>
+   <li>Responsive Design.</li>
+   <li>User Friendly.</li>
+</ul>
+
 
 Happy tracking!
 
