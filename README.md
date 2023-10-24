@@ -28,7 +28,7 @@ To get started with the Pac-Man Project, follow these steps:
 <ul>
       <li><b>HTML,CSS,JavaScript</b>-The core technologies for building front-end Interface</li>
       <li><b>Google Maps API</b>-Mapping API. To display Interactive Map and bus location</li>
-      <li><b>APIs</b>for Real time data</li>
+      <li><b>APIs</b> for Real time data</li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
