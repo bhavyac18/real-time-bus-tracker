@@ -9,10 +9,10 @@
 
 ### Features
 <ul>
-   <li>Real-time tracking</li>
-   <li>Interactive Map</li>
-   <li>Responsive Design.</li>
-   <li>User Friendly.</li>
+   <li>Real-time tracking - Get Instant updates on the current location and route of bus you are interested in.</li>
+   <li>Interactive Map - Google map displays the current location,bus position and upcoming routes </li>
+   <li>Responsive Design - Works on all devices</li>
+   <li>User Friendly - Ensures all users to easily track and understand</li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
