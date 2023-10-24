@@ -35,10 +35,9 @@ To get started with the Pac-Man Project, follow these steps:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Roadmap
-- [ ] Add whether the bus is crowded or not
-- [ ] Add if there are seats available
-- [ ] Add if there are any delays 
-
+- [ ] Include the information about bus's occupancy
+- [ ] Provide the information of seat availabilty
+- [ ] Add details about any expected lateness
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### License information
